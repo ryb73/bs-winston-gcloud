@@ -29,10 +29,10 @@
     "postinstall": "[ ! -f package-links.json ] || ppl link-file"
   },
   "peerDependencies": {
-    "bs-platform": "^4.0.0"
+    "bs-platform": "^5.0.0"
   },
   "dependencies": {
-    "@google-cloud/logging-winston": "^0.10.2",
-    "@ryb73/bs-winston": "^0.0.2"
+    "@google-cloud/logging-winston": "^0.11.1",
+    "@ryb73/bs-winston": "^0.0.4"
   }
 }
