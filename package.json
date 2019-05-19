@@ -38,6 +38,6 @@
   },
   "dependencies": {
     "@google-cloud/logging-winston": "^0.11.1",
-    "@ryb73/bs-winston": "^0.1.0"
+    "@ryb73/bs-winston": "^0.1.1"
   }
 }
