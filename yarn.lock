@@ -187,12 +187,12 @@
   resolved "https://registry.yarnpkg.com/@protobufjs/utf8/-/utf8-1.1.0.tgz#a777360b5b39a1a2e5106f8e858f2fd2d060c570"
   integrity sha1-p3c2C1s5oaLlEG+OhY8v0tBgxXA=
 
-"@ryb73/bs-winston@^0.0.4":
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/@ryb73/bs-winston/-/bs-winston-0.0.4.tgz#6a230022c21c177e8bd7eeda8e1496b9be96ee76"
-  integrity sha512-J9f3bcoNMEK3U9n8HD93joV37AZ6z2KDLMlcy87b0ZGZXlRDxefcz/YggmzNmmFnXTNPj3SwGxh7s1VeWRfsqg==
+"@ryb73/bs-winston@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@ryb73/bs-winston/-/bs-winston-0.1.0.tgz#f2f562ebc0c1136929f40741fc95d083759c1001"
+  integrity sha512-c9uuMW82sVO+l4GbBXjpGzqvVLUWutAz/veNLD9K//UOA8A9l4sLFy1h011hEABodYKWjtO8Ptboc4JFlWEJgQ==
   dependencies:
-    bs-platform "^5.0.3"
+    bs-platform "^5.0.4"
     winston "^3.2.1"
 
 "@types/caseless@*":
@@ -342,10 +342,10 @@ brace-expansion@^1.1.7:
     balanced-match "^1.0.0"
     concat-map "0.0.1"
 
-bs-platform@^5.0.3:
-  version "5.0.3"
-  resolved "https://registry.yarnpkg.com/bs-platform/-/bs-platform-5.0.3.tgz#2b167603ef52574cb9534fabab702f6013715e6c"
-  integrity sha512-GAeypBebeDGTay5kJ3v5Z3Whp1Q4zQ0hAttflVtPG3zps88xDZnVAlS3JGIIBDmJFEMyNtv5947a/IWKvWXcPw==
+bs-platform@^5.0.4:
+  version "5.0.4"
+  resolved "https://registry.yarnpkg.com/bs-platform/-/bs-platform-5.0.4.tgz#d406ef43c12d1b19d8546884d8b5b4e0fb709372"
+  integrity sha512-rXM+ztN8wYXQ4ojfFGylvPOf8GRLOvM94QJsMMV9VpsLChKCjesWMNybTZvpoyNsESu2nC5q+C9soG+BPhuUFQ==
 
 buffer-equal-constant-time@1.0.1:
   version "1.0.1"

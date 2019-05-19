@@ -68,3 +68,5 @@ lib/
 
 # persistent-package-linker
 package-links.json
+
+sec.json
