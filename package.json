@@ -1,6 +1,6 @@
 {
   "name": "@ryb73/bs-winston-gcloud",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Bucklescript bindings for https://github.com/googleapis/nodejs-logging-winston/",
   "main": "index.js",
   "repository": {
